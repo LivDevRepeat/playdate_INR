@@ -5,7 +5,7 @@
 
 🎯 **Primary Goal:** To create a handy tool for individuals to monitor their INR levels more frequently and effectively. This is crucial for those of us on blood thinners, as regular monitoring can significantly impact our health and lifestyle.
 
-🏡 **Secondary Goal:** Utilizing the periods when outdoor activities are restricted (due to health precautions like overly thin blood) as an opportunity to engage in a creative and constructive endeavor. Building **INR LOG** not only serves a practical purpose but also transforms challenging times into periods of productivity and innovation.
+🏡 **Secondary Goal:** Utilizing the periods when outdoor activities are restricted (due to health precautions like overly thin blood) as an opportunity to engage in a creative and constructive endeavor. Building **INR LOG** not only serves a practical purpose but also transforms challenging times into periods of productivity and innovation. I am Bored and can't go out so i do this now.
 
 ## Installation 🛠️
 
@@ -25,7 +25,6 @@ To get **INR LOG** up and running on your Playdate:
 1. Launch the app from your Playdate's menu.
 2. Input your latest INR readings as prompted.
 3. Review your history to keep track of your INR levels over time.
-4. Use the app as a positive focus during times when health concerns might keep you indoors.
 
 ## Contributing 🤝
 Got ideas or suggestions? Your contributions are welcome! Feel free to open an issue or a pull request. Just make sure they align with the Playdate's development guidelines.
