@@ -1,0 +1,9 @@
+name=INR LOG
+author=LivDevRepeat
+description=This is a Playdate APP
+bundleID=com.domain.GameName
+version=0.1
+imagePath=SystemAssets/
+buildNumber=1
+pdxversion=20100
+buildtime=753105745
